@@ -4,7 +4,29 @@
   		"userID": "1",
   		"name": "Example",
   		"email": "example@gmail.com"
-	}
+	},
+
+	"workflow": [
+                  {
+                   "config": {
+                      "TextToSpeech": "icsdi"
+                    }," 
+                    "blockType": "textToSpeech"
+                  },
+                  {
+                  "config": {
+			"TextToSpeech": "ciao"
+                  },
+			"blockType": "TextToSpeech"
+                  },
+                  {
+                   "config": {
+                      "textToSpeech": "3" 
+		       },
+                    "blockType": "textToSpeech" 
+                  }
+                ]
+
 }
 
 
