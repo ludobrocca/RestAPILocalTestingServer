@@ -6,26 +6,15 @@
   		"email": "example@gmail.com"
 	},
 
-	"workflow": [
-                  {
-                   "config": {
-                      "TextToSpeech": "icsdi"
-                    }," 
-                    "blockType": "textToSpeech"
-                  },
-                  {
-                  "config": {
-			"TextToSpeech": "ciao"
-                  },
-			"blockType": "TextToSpeech"
-                  },
-                  {
-                   "config": {
-                      "textToSpeech": "3" 
-		       },
-                    "blockType": "textToSpeech" 
-                  }
-                ]
+"first": [
+      {
+	"id" : "userID=1",
+        "blockType": "TextToSpeech",
+        "config": {
+          "TextToSpeech": "first workflow created"
+        }
+      }
+    ]
 
 }
 
