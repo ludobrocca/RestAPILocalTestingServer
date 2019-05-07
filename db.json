@@ -6,9 +6,9 @@
   		"email": "example@gmail.com"
 	},
 
-"first": [
+"workflow": [
       {
-	"id" : "userID=1",
+	"id" : "userID=1?workflowName=prova",
         "blockType": "TextToSpeech",
         "config": {
           "TextToSpeech": "first workflow created"
