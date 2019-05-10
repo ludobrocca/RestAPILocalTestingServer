@@ -1,21 +1,20 @@
 {
 	"user" : {
 		"id" : "userID=1",
-  		"userID": "1",
-  		"name": "Example",
-  		"email": "example@gmail.com"
+  		"responseCode" : "OK"
 	},
 
-"workflow": [
-      {
-	"id" : "userID=1?workflowName=prova",
-        "blockType": "TextToSpeech",
-        "config": {
-          "TextToSpeech": "first workflow created"
-        }
+	"workflow": [
+      		{
+		"id" : "userID=1?workflowName=prova",
+        	"responseCode" : "OK"
       }
-    ]
+    ],
 
+	"all" : {
+		"id" : "userID=1",
+  		"responseCode" : "OK"
+	}
 }
 
 
