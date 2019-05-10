@@ -14,7 +14,12 @@
           "TextToSpeech": "first workflow created"
         }
       }
-    ]
+    ],
+
+"all" : {
+	"id" : "userID=1",
+	"response" : "OK"
+	}
 
 }
 
