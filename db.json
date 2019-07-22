@@ -1,4 +1,4 @@
-{
+[
 	"users/login" : {
 		"response": 200,
 		"user": "user",
@@ -15,7 +15,7 @@
 		"password": "password"
 	}
 	
-}
+]
 
 
 
