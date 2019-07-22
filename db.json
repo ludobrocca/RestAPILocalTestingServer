@@ -1,9 +1,20 @@
 {
 	"users/login" : {
-			"response": 200,
- 			"user": "user",
-  			"password": "user"
+		"response": 200,
+		"user": "user",
+		"password": "password"
+	},
+	"users" : {
+		"response": 200,
+		"user": "user",
+		"password": "password"
+	},
+	"login" : {
+		"response": 200,
+		"user": "user",
+		"password": "password"
 	}
+	
 }
 
 
