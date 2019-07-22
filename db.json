@@ -1,5 +1,5 @@
 {
-	"user" : {
+	"users" : {
 		"login" : {
 			"response": 200,
  			"user": "user",
